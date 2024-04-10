@@ -10,9 +10,6 @@
 Обработанные данные появятся в `output.json`.
 Затем их можно использовать для работы [бота](https://github.com/peaashmeter/markovbot).
 
-🤍💙🤍
-Нет войне!
-
 ## 🇺🇸
 This is a script for generating a [transitive matrix](https://en.wikipedia.org/wiki/Stochastic_matrix) for a Markov chain using an array of messages from Discord.
 You can use any other instruments to get a JSON with data. For example, take a look at this one: https://github.com/Tyrrrz/DiscordChatExporter.
@@ -24,5 +21,3 @@ Run the script using<br>
 A file named `output.json` will be created.
 Then you can use it for the [bot](https://github.com/peaashmeter/markovbot).
 
-🤍💙🤍
-Peace to Ukraine!
